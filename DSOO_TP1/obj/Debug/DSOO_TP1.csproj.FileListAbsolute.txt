@@ -5,3 +5,10 @@ D:\Programación\DESARROLLO DE SOFTWARE\C# Ejercicios\DSOO_TP1\DSOO_TP1\obj\Debu
 D:\Programación\DESARROLLO DE SOFTWARE\C# Ejercicios\DSOO_TP1\DSOO_TP1\obj\Debug\DSOO_TP1.csproj.CoreCompileInputs.cache
 D:\Programación\DESARROLLO DE SOFTWARE\C# Ejercicios\DSOO_TP1\DSOO_TP1\obj\Debug\DSOO_TP1.exe
 D:\Programación\DESARROLLO DE SOFTWARE\C# Ejercicios\DSOO_TP1\DSOO_TP1\obj\Debug\DSOO_TP1.pdb
+C:\Users\Feli\src\Tecnicatura IFTS 29\2°C-1°A\Desarrollo de Sistemas Orientado a Objetos\PFO 1\DSOO_TP1\bin\Debug\DSOO_TP1.exe.config
+C:\Users\Feli\src\Tecnicatura IFTS 29\2°C-1°A\Desarrollo de Sistemas Orientado a Objetos\PFO 1\DSOO_TP1\bin\Debug\DSOO_TP1.exe
+C:\Users\Feli\src\Tecnicatura IFTS 29\2°C-1°A\Desarrollo de Sistemas Orientado a Objetos\PFO 1\DSOO_TP1\bin\Debug\DSOO_TP1.pdb
+C:\Users\Feli\src\Tecnicatura IFTS 29\2°C-1°A\Desarrollo de Sistemas Orientado a Objetos\PFO 1\DSOO_TP1\obj\Debug\DSOO_TP1.csproj.AssemblyReference.cache
+C:\Users\Feli\src\Tecnicatura IFTS 29\2°C-1°A\Desarrollo de Sistemas Orientado a Objetos\PFO 1\DSOO_TP1\obj\Debug\DSOO_TP1.csproj.CoreCompileInputs.cache
+C:\Users\Feli\src\Tecnicatura IFTS 29\2°C-1°A\Desarrollo de Sistemas Orientado a Objetos\PFO 1\DSOO_TP1\obj\Debug\DSOO_TP1.exe
+C:\Users\Feli\src\Tecnicatura IFTS 29\2°C-1°A\Desarrollo de Sistemas Orientado a Objetos\PFO 1\DSOO_TP1\obj\Debug\DSOO_TP1.pdb
