@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Actividad.cs" />
+    <Compile Include="ClubDeportivo.cs" />
     <Compile Include="ListaSocios.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

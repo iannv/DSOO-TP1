@@ -29,11 +29,6 @@ namespace DSOO_TP1
         public int Cantidad_actividades_socio { get => cantidad_actividades_socio; set => cantidad_actividades_socio = value; }
         //internal List<Socio> Lista_socios { get => lista_socios; set => lista_socios = value; }
 
-        public int getSocio()
-        {
-            return dni_socio;
-        }
-
         // Alta Socio
         //public void altaSocio(Socio socio)
         //{
@@ -57,15 +52,9 @@ namespace DSOO_TP1
         //    }
         //}
 
-
-        // Inscribir a la actividad
-        public string inscribirActividad(int id_socio, string nombre_actividad) {
-            return "";
-        }
-
         public override string ToString()
         {
-            return $"Nombre: {nombre_socio}, DNI: {dni_socio} ";
+            return $"Nombre: {nombre_socio}, DNI: {dni_socio}, cantidad actividades: {cantidad_actividades_socio} ";
         }
     }
 }

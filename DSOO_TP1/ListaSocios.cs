@@ -15,11 +15,11 @@ namespace DSOO_TP1
             this.socios = new List<Socio>();
         }
 
-        private Socio buscarSocio(int dni_socio)
+        public Socio buscarSocio(int dni_socio)
         {
             Socio socioBuscado = null;
             int i = 0;
-            while (i < socios.Count && !socios[i].getSocio().Equals(dni_socio)) 
+            while (i < socios.Count && !socios[i].Dni_socio.Equals(dni_socio)) 
                 i++;
             if (i != socios.Count) 
                 socioBuscado = socios[i];
